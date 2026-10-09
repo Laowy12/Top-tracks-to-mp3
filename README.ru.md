@@ -1,5 +1,10 @@
 # Топ‑треки групп → MP3
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-4F46E5.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/Laowy12/Top-tracks-to-mp3?label=release&color=4F46E5)](https://github.com/Laowy12/Top-tracks-to-mp3/releases/latest)
+[![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/Laowy12/Top-tracks-to-mp3/releases/latest)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
+
 [English version →](README.md)
 
 Утилита получает до 30 популярных треков для каждой группы из `groups.txt`, отбрасывает малопопулярные позиции, ищет оставшиеся в разделе **Songs** YouTube Music и извлекает MP3 с помощью `yt-dlp` и FFmpeg. Используйте её исключительно для аудио, на которое у вас есть права или разрешение правообладателя.

@@ -1,5 +1,10 @@
 # Top group tracks → MP3
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-4F46E5.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/Laowy12/Top-tracks-to-mp3?label=release&color=4F46E5)](https://github.com/Laowy12/Top-tracks-to-mp3/releases/latest)
+[![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/Laowy12/Top-tracks-to-mp3/releases/latest)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
+
 [Русская версия →](README.ru.md)
 
 The tool fetches up to 30 popular tracks for each group in `groups.txt`, drops the less popular ones, looks up the rest in the **Songs** section of YouTube Music and extracts MP3 files with `yt-dlp` and FFmpeg. Use it only for audio you have the rights to or permission from the copyright holder to use.
