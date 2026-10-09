@@ -11,6 +11,8 @@ There are two ways to use it:
 
 The interface and the console messages are available in **English and Russian**. The language is picked automatically from your system on first launch and can be switched any time in the window (or with `--lang` on the command line).
 
+![Top group tracks → MP3 — main window](docs/screenshot.png)
+
 ## Installation
 
 1. Install [FFmpeg](https://ffmpeg.org/download.html) and make sure the `ffmpeg -version` command works in PowerShell.
