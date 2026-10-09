@@ -1,0 +1,5 @@
+# Optional file with Russian name variants.
+# group,track,group_ru,track_ru
+# An empty track means a variant for the whole group.
+# The Beatles,,Битлз,
+# Rammstein,Du Hast,Рамштайн,Ты у меня есть

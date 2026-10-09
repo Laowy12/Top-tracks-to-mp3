@@ -1,0 +1,4 @@
+# One group per line. Everything after # is a comment.
+# Replace these examples with your own groups:
+twenty one pilots
+The Beatles

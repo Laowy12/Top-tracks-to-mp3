@@ -1,0 +1,6 @@
+# Paste one link to an individual YouTube Music song per line.
+# Lines starting with # are ignored.
+# Examples:
+# https://music.youtube.com/watch?v=XXXXXXXXXXX
+# https://www.youtube.com/watch?v=XXXXXXXXXXX
+# https://youtu.be/XXXXXXXXXXX
